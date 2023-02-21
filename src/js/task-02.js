@@ -16,3 +16,4 @@ newList.classList.add("item");
 const listIngredients = document.querySelector('ul#ingredients');
 console.log(listIngredients);
 listIngredients.append(newList);
+
